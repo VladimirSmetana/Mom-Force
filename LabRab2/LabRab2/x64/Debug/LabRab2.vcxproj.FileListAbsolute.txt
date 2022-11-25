@@ -1,0 +1,2 @@
+C:\Users\Владимир Сметана\Desktop\LabRab2\LabRab2\x64\Debug\LabRab2.vcxproj.AssemblyReference.cache
+C:\Users\Владимир Сметана\Desktop\LabRab2\LabRab2\x64\Debug\LabRab2.vcxproj.SuggestedBindingRedirects.cache
